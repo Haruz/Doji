@@ -11,13 +11,8 @@
 .navbar {
 	box-shadow: 0 2px 2px -2px gray;
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1068px) {
 	
-.fix{width: 186px;
-    height: 68px;
-	font-size: 30px;
-	}
-	.fix2{
-font-size: 30px;
+	.phone-save{height: 80vh;}
 }
-}
+@
