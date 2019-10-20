@@ -1,0 +1,13 @@
+.flex-fit {
+	display: flex;
+	justify-content: center;
+}
+
+.humaans {
+	width: 65%;
+	height: 65%;
+}
+
+.navbar {
+	box-shadow: 0 2px 2px -2px gray;
+}
